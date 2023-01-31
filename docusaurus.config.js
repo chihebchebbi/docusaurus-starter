@@ -73,7 +73,7 @@ const config = {
         links: [
 
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Blue Team Academy - Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Blue Teams Academy - Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
