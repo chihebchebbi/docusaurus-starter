@@ -56,7 +56,7 @@ const config = {
         title: 'BLUE TEAMS ACADEMY',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/docusaurus.png',
         },
         items: [
           {
