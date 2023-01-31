@@ -4,6 +4,7 @@
   padding: 2rem 0;
   width: 100%;
   background-image: url(https://media2.giphy.com/media/SUcnmocyRKkfSil9xd/giphy.gif);
+  background-repeat: no-repeat;
 }
 
 .featureSvg {
