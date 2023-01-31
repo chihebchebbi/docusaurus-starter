@@ -2,6 +2,12 @@
  * CSS files with the .module.css suffix will be treated as CSS modules
  * and scoped locally.
  */
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@300&display=swap');
+
+body{
+font-family: 'Unbounded', cursive;
+}
+
 
 .heroBanner {
   padding: 4rem 0;
