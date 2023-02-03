@@ -7,17 +7,15 @@
 body{
 font-family: 'Monda', sans-serif;
   background-color: #303846;
-}
-
-.docusaurus_skipToContent_fallback{
-
-background-color: #212529;
 
 }
 
+.mainWrapper{
 
-.docMainContainer_gTbr, .docPage__5DB{
-background-color: white;}
+  background-color: #fff;
+
+}
+
 
 .heroBanner {
   padding: 4rem 0;
