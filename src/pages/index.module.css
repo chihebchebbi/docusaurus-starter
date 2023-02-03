@@ -6,6 +6,7 @@
 
 body{
 font-family: 'Monda', sans-serif;
+  background-color: #303846;
 }
 
 .docusaurus_skipToContent_fallback{
@@ -14,10 +15,9 @@ background-color: #212529;
 
 }
 
-.mainWrapper_z2l0 {
 
-background-color: #303846;
-}
+#__docusaurus{
+background-color: white;}
 
 .heroBanner {
   padding: 4rem 0;
