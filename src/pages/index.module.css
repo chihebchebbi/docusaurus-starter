@@ -11,8 +11,16 @@ font-family: 'Monda', sans-serif;
 
 img[src*="#logo"] {
    width:20%;
+   
 }
 
+img[src*="#screenshot"] {
+   width:60%;
+}
+
+img[src*="#diagram"] {
+   width:40%;
+}
 
 
 .heroBanner {
