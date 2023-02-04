@@ -28,8 +28,7 @@ You can download it from here: [https://cybersecurity.att.com/products/ossim](ht
 
 ### The HELK
 
-
-
+![img](https://thehelk.com/_static/logo.png#logo)
 
 If you are into threat hunting than you probabilly heard of the HELK project. The HELK was developed by Roberto Rodriguez ([Cyb3rWard0g](https://github.com/Cyb3rWard0g)) under GPL v3 License. The project was build based on the ELK stack in addition to other helpful tools like Spark, Kafka and so on.
 
