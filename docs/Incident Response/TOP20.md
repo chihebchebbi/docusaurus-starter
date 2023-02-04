@@ -12,8 +12,6 @@ In this module we are going to explore the TOP 20 open source tools that every b
 
 ![img](https://github.com/TheHive-Project/TheHive/raw/main/images/thehive-logo.png#logo)
 
-
-
 TheHive is a scalable 4-in-1 open source and free security incident response platform designed to make life easier for SOCs, CSIRTs, CERTs and any information security practitioner dealing with security incidents that need to be investigated and acted upon swiftly. Thanks to [Cortex](https://github.com/TheHive-Project/Cortex/), our powerful free and open-source analysis engine, you can analyze (and triage) observables at scale using more than 100 analyzers.
 
 Its official website: [https://thehive-project.org](https://thehive-project.org/)
@@ -21,7 +19,7 @@ Its official website: [https://thehive-project.org](https://thehive-project.org/
 
 ### OSSIM
 
-
+![img](http://www.linkwen.com.tw/images/alienvault/USM-Appliance-Logo-Mark.Green.png#logo)
 
 OSSIM is an open-source security information and event management system (SIEM). It was developed in 2003. The project was acquired later by AT&amp;T.
 
