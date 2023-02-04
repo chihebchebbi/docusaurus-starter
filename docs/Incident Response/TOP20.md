@@ -10,7 +10,7 @@ In this module we are going to explore the TOP 20 open source tools that every b
 
 ### The Hive
 
-![img](https://github.com/TheHive-Project/TheHive/raw/main/images/thehive-logo.png#thumbnail)
+![img](https://github.com/TheHive-Project/TheHive/raw/main/images/thehive-logo.png#logo)
 
 
 
