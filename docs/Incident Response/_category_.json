@@ -1,0 +1,8 @@
+{
+  "label": "Incident Response",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Articles about Incident Response & Security Operation Centers (SOC)"
+  }
+}
