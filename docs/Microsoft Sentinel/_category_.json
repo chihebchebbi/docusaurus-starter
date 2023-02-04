@@ -1,6 +1,6 @@
 {
   "label": "Microsoft Sentinel",
-  "position": 4,
+  "position": 3,
   "link": {
     "type": "generated-index",
     "description": "Articles and Projects about Microsoft Sentinel SIEM/SOAR"
