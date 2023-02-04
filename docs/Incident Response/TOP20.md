@@ -1,3 +1,7 @@
+---
+sidebar_position: 7
+---
+
 #  TOP 20 Open-source tools every Blue Teamer should have 
 
 
