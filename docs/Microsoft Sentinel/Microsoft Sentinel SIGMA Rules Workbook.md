@@ -12,7 +12,7 @@ This workbook helps you assess your Microsoft Sentinel Analytics Detection cover
 
 ## Threat Profiling
 
-The first step is to provide the tool with a threat profile. The threat profile is represented as MITRE ATT&CK navigation layer. The infosec community already shares many navigation layers of threat profiles and mapped threat intelligence reports. If you have a Threat Heat map as a MITRE ATT&CK navigation layer you can use the <strong>MITRE2CSV.py</strong> script to convert it to a CSV file. Create a Watchlist using that csv file. The name of the watchlist should follow this format: Threat_Profile_<TITLE>. For example, Threat_Profile_APT28
+The first step is to provide the tool with a threat profile. The threat profile is represented as MITRE ATT&CK navigation layer. The infosec community already shares many navigation layers of threat profiles and mapped threat intelligence reports. If you have a Threat Heat map as a MITRE ATT&CK navigation layer you can use the MITRE2CSV.py script to convert it to a CSV file. Create a Watchlist using that csv file. The name of the watchlist should follow this format: Threat_Profile_TITLE. For example, Threat_Profile_APT28
 
 ## Generate Microsoft Sentinel Analytics Watchlist
 
@@ -21,7 +21,7 @@ Once you create threat profile watchlists, you need to create a watchlist contai
 
 ## SIGMA Rules Watchlist
 
-At this phase, you already created threat profiles and coverage watchlists. Then, create a watchlist that contains all SIGMA rules links. To generate the needed csv when creating the watchlist use the script <strong>SIGMA2csv.py </strong>
+At this phase, you already created threat profiles and coverage watchlists. Then, create a watchlist that contains all SIGMA rules links. To generate the needed csv when creating the watchlist use the script SIGMA2csv.py 
 
 Now you have everything to use the workbook and to identify the sigma rules that you can use to enhance your detection capabilities. 
 
