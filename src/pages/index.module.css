@@ -9,7 +9,7 @@ font-family: 'Monda', sans-serif;
 
 }
 
-img[src*="#thumbnail"] {
+img[src*="#logo"] {
    width:20%;
 }
 
