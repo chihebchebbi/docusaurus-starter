@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 ---
+Welcome to BLUE TEAMS ACADEMY! In this free website, you will gain an understanding of the fundamentals of incident response and its relevance in the modern world. We will cover topics such as the basics of cloud security, incident response, Security Operations Centers (SOC) and Threat Hunting. You will also become familiar with the latest security technologies and the security challenges that face organizations today. 
 
 ## Modules
 
