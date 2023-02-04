@@ -11,6 +11,8 @@ font-family: 'Monda', sans-serif;
 
 img[src*="#logo"] {
    width:20%;
+  margin: auto;
+  display: block;
    
 }
 
