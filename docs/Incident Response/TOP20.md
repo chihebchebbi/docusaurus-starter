@@ -11,7 +11,7 @@ In this module we are going to explore the TOP 20 open source tools that every b
 ### The Hive
 
 
-
+![](https://github.com/TheHive-Project/TheHive/raw/main/images/thehive-logo.png)
 
 
 TheHive is a scalable 4-in-1 open source and free security incident response platform designed to make life easier for SOCs, CSIRTs, CERTs and any information security practitioner dealing with security incidents that need to be investigated and acted upon swiftly. Thanks to [Cortex](https://github.com/TheHive-Project/Cortex/), our powerful free and open-source analysis engine, you can analyze (and triage) observables at scale using more than 100 analyzers.
