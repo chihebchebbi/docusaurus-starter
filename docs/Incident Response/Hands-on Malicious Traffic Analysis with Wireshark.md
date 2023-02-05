@@ -33,7 +33,6 @@ A topology is a schematic representation of a network. You can see it as the lay
 
 > &quot;_Network traffic refers to the amount of data moving across a network at a given point of time.  __Network data__  is mostly encapsulated in  __network packets__ , which provide the load in the network.  __Network traffic__  is the main component for network traffic measurement, network traffic  __control__  and simulation.&quot;_
 
-<img src="https://lh5.googleusercontent.com/vwga5qw-V31q2A0kUEHQ-sEVqKqCzsLI4ToCNuP65bVjFq4wmBQRlkTVmm6hhsWURsO9Gpj31SyS-eZMc1n9AXjme7CyNIkHyOVBXoqM0P1JSmJSzWwt9Ol7kyFFZawiLhxtMeI" width="200px">
 
 
 [Image Courtesy](https://www.flowmon.com/getattachment/Solutions/use-case/flow-monitoring/product-img_Monitoring.png.aspx?width=480&amp;height=309)
