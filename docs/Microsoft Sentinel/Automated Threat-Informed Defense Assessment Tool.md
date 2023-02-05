@@ -5,11 +5,6 @@ sidebar_position: 7
 
 # Automated Threat-Informed Defense Assessment Tool
 
-
-![](Images/banner1.png)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
-
 ## About The Project
 
 Azure Sentinel Automated Threat-Informed Defense Assessment Tool helps you assess your Detection and hunting coverage against a threat Actor/profile.Furthermore, this tool enables defenders to start aligning their Sentinel day-to-day SOC operations with the MITRE ATT&CK framework. You just need to provide a threat profile as an ATT&CK Navigation layer (.json) and the tool will generate a report that include:
