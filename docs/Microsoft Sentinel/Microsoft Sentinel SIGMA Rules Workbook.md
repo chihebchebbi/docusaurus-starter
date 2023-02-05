@@ -16,7 +16,7 @@ The first step is to provide the tool with a threat profile. The threat profile 
 
 ## Generate Microsoft Sentinel Analytics Watchlist
 
-Once you create threat profile watchlists, you need to create a watchlist containing your Microsoft Sentinel Analytics Coverage. In order to do that, export the Analytics table from the deployed workbook and use the script <strong>Coverage2CSV.py</strong> to create a CSV file containing the techniques coveraged by your sentinel analytics rules. Use that csv file to create a watchlist. 
+Once you create threat profile watchlists, you need to create a watchlist containing your Microsoft Sentinel Analytics Coverage. In order to do that, export the Analytics table from the deployed workbook and use the script Coverage2CSV.py to create a CSV file containing the techniques coveraged by your sentinel analytics rules. Use that csv file to create a watchlist. 
 
 
 ## SIGMA Rules Watchlist
