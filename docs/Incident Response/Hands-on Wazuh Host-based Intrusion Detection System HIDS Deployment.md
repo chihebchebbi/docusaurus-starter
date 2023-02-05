@@ -239,5 +239,3 @@ Click on &quot;Add new API&quot; and fill the API fields. If everything goes fin
 To add new agent just select the OS, curl the package and install it:
 
 
-![](img/wazagent.png)
-
