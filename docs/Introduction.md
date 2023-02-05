@@ -50,6 +50,8 @@ Welcome to BLUE TEAMS ACADEMY! In today's complex and rapidly evolving cybersecu
 
  This training is maintained by: **Chiheb Chebbi**
  
+ ![](https://i.imgur.com/DC3MwuH.png)
+ 
 >  If you want me to modify/correct something please don't hesitate to contact me via: **chiheb-chebbi [at] outlook.fr**
 
 ------------
