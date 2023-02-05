@@ -199,7 +199,6 @@ Logstash is an open source to collect,parse and transform logs.
 
 ` sudo systemctl enable logstash`
 
-![](img/installlogstash.png)
 
 Download the Wazuh configuration file for Logstash
 
