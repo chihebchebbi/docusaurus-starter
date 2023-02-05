@@ -3,6 +3,8 @@ sidebar_position: 1
 ---
 Welcome to BLUE TEAMS ACADEMY! In today's complex and rapidly evolving cybersecurity landscape, organizations must be prepared to respond effectively to security incidents. This free website will provide you with a thorough understanding of the processes, tools, and techniques involved in incident response, SOC operations, and threat hunting.
 
+![](https://www.networkcablingservices.com/wp-content/uploads/2022/06/When-Should-You-Consider-a-Security-Operations-Center-SOC.jpeg)
+
 ## Modules
 
 - **Module 1** - Incident Response and Security Operations Fundamentals 
