@@ -146,8 +146,7 @@ The PRE-ATT&CK MITRE framework present the 15 tactics as the following:
 Azure Security Center gives you the ability to integrate workloads from other cloud providers such as AWS and Google GCP. To connect your cloud accounts select the “Cloud Connectors” page. 
 
 
-
-## <img src="https://lh3.googleusercontent.com/5e-D9sDpu-at5F91arcrHuX-Q_I0HpANUsMZpCsFqydT3JlP3k3h74UObOfhK8EI5zZkBGE8FrsuFTaiBl1mFGRHkm_14u3-w2R8fyEkg8mvT4vfVcNTP_y1OL6p_0pumhuYZa43" alt="Logo" width="50" height="50"> - Take Actions Now
+ - Take Actions Now
 
 
 > "What would life be if we had no courage to attempt anything?" - Vincent Van Gogh
