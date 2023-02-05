@@ -27,7 +27,6 @@ Red Teamers usually perform the following steps:
 - Data analysis
 - Exfiltrate and complete mission
 
-![](https://camo.githubusercontent.com/7ed924f85b775db73958b443a8798b401c40cdd2/68747470733a2f2f75706c6f6164732d73736c2e776562666c6f772e636f6d2f3538383636636165616263383364356537633537346337312f3538626534333132646331336239646537343638363132615f5265642d5465616d2d41747461636b2d4c6966656379636c652e6a7067)[Image source]()
 
 
 ## **Atomic Red Team**
@@ -88,7 +87,7 @@ Install a required module:
 
 Now go and download  **Invoke-atomicreadteam**  from: [https://github.com/redcanaryco/invoke-atomicredteam](https://github.com/redcanaryco/invoke-atomicredteam)
 
-_Invoke-AtomicRedTeam is a PowerShell module to execute  __tests__  as defined in the _[_atomics folder_](https://github.com/redcanaryco/atomic-red-team/tree/master/atomics)_ of Red Canary&#39;s Atomic Red  __Team__  project. The &quot;atomics folder&quot; contains a folder for each  __Technique__  defined by the _[_MITRE ATT&amp;CK™ Framework_](https://attack.mitre.org/matrices/enterprise/)_. Inside of each of these &quot;T#&quot; folders you&#39;ll find a  __**yaml**__  file that defines the attack  __procedures__  for each atomic test as well as an easier to read markdown ( __**md**__ )  __version__  of the same data._
+_Invoke-AtomicRedTeam is a PowerShell module to execute  __tests__  as defined in the Atomics folder of Red Canary&#39;s Atomic Red  __Team__  project. The &quot;atomics folder&quot; contains a folder for each  __Technique__  defined by the MITRE ATT&CK framework. Inside of each of these &quot;T#&quot; folders you&#39;ll find a  __**yaml**__  file that defines the attack  __procedures__  for each atomic test as well as an easier to read markdown ( __**md**__ )  __version__  of the same data._
 
 
 
