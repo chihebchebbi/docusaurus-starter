@@ -151,19 +151,19 @@ According to the data scientist and deep learning experts like the machine learn
 
 ## **Intrusion detection systems with Machine learning**
 
-Dangerous [hackers]() are inventing new techniques in a daily basis to bypass security layers and avoid detection.Thus it is time to figure out new techniques to defend against cyber threats. [Intrusion detection]() systems are a set of devices or pieces of software that play a huge role in modern organizations to defend against intrusions and [malicious]() activities.We have two major [intrusion]() [detection]() system categories:
+Dangerous hackers are inventing new techniques in a daily basis to bypass security layers and avoid detection.Thus it is time to figure out new techniques to defend against cyber threats. Intrusion detection systems are a set of devices or pieces of software that play a huge role in modern organizations to defend against intrusions and malicious activities.We have two major intrusion detection system categories:
 
 - **Host Based Intrusion Detection Systems (HIDS): **they run on the enterprise hosts to
-- **Network Based Intrusion Detection Systems (NIDS):** their role is to detect network anomalies by [monitoring]() the inbound and outbound traffic.
+- **Network Based Intrusion Detection Systems (NIDS):** their role is to detect network anomalies by monitoring the inbound and outbound traffic.
 
 The detection can be done using two intrusion detection techniques:
 
-- **Signature based detection technique:**  the traffic is compared against a [database]() of [signatures]() of known [threats]()
+- **Signature based detection technique:**  the traffic is compared against a data base of signatures of known threat
 - Anomaly-based intrusion technique: inspects the traffic based on the behavior of activities.
 
 ![](https://lh6.googleusercontent.com/bkxscHFXk3FbYHEPS2sBVwZ-lhhQLzgM9E_EcNDN2etvpUx_hnOVChRKMVtxzJz0iYRykwxdXIWYbr3nMlXSHgHiykbOhxxS9HkIgJqAfmlhK_7xPbge-m4YxRooCjfLNSyGRBc)
 
-Modern organization are facing thousands of threats in a daily basis.That is way the classic techniques could not be a wise solution to defend against them.Many [researchers]() and information [security professionals]() are coming with new concepts,prototypes or models to try solving this serious security issues.For example this is graph shows the different intrusion detection techniques including the discussed machine learning algorithms
+Modern organization are facing thousands of threats in a daily basis.That is way the classic techniques could not be a wise solution to defend against them.Many researchers and information security professionals are coming with new concepts,prototypes or models to try solving this serious security issues.For example this is graph shows the different intrusion detection techniques including the discussed machine learning algorithms
 
 ![](https://lh4.googleusercontent.com/52VVlYvYwYmdqm4JUSl8YgxOlAjDMuyzKvflyXBmGue8cem7ssm-BY0RmjFxp-hd5iXfWm88N4LnSRPKLzEIOzzAnVu3gwcK3Kx7EDY7h8PcmBXXvismQCSYjeTt8CwD0xDYNS0)
 
