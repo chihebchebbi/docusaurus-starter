@@ -5,13 +5,11 @@ sidebar_position: 7
 
 # Automated Threat-Informed Defense Assessment Tool
 
-<!-- PROJECT SHIELDS -->
-<!-- PROJECT LOGO -->
+
 ![](Images/banner1.png)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 
 Azure Sentinel Automated Threat-Informed Defense Assessment Tool helps you assess your Detection and hunting coverage against a threat Actor/profile.Furthermore, this tool enables defenders to start aligning their Sentinel day-to-day SOC operations with the MITRE ATT&CK framework. You just need to provide a threat profile as an ATT&CK Navigation layer (.json) and the tool will generate a report that include:
@@ -19,7 +17,6 @@ Azure Sentinel Automated Threat-Informed Defense Assessment Tool helps you asses
 * Azure Sentinel covered MITRE tactics and Techniques by Analytics and Hunting queries (A Coverage Score)
 * Related Azure native security controls, D3FEND defenses, NIST mitigations, Atomic Tests, Sigma Rules etc...
 
-<!-- GETTING STARTED -->
 ## Getting Started
 
 The project goes throuhg the following steps:
@@ -87,12 +84,12 @@ pip3 install -r requirements.txt
 Edit the configuration file located at 'Config/Config.toml' with the Azure Sentinel API credentials
 
 ```
-Azure_AD_Tenant =  <Azure_AD_Tenant Here>
-Client_ID =  <Client_ID Here> 
-Client_Secret = <Client_Secret Here> 
-ResourceGroup =  <ResourceGroup Here>
-Workspace =  <Workspace Here>
-Subscription = <Subscription Here> 
+Azure_AD_Tenant =  Azure_AD_Tenant Here 
+Client_ID =  Client_ID Here  
+Client_Secret = Client_Secret Here  
+ResourceGroup =  ResourceGroup Here 
+Workspace = Workspace Here 
+Subscription = Subscription Here 
 ```
 
 To run the project simply type:
