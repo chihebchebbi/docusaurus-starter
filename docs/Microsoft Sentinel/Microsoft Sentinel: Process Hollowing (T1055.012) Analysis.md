@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Microsoft Sentinel: Process Hollowing (T1055.012) Analysis 
+# Microsoft Sentinel: Process Hollowing T1055.012 Analysis 
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MO5yzvM95WKuwxNJv3b%2F-MTQnOs_xEAye829JeSx%2F-MTQxmYtLUotvQ1w5IT1%2Fcover.png?alt=media&token=d269697f-0bcb-4e20-a433-3111862ab673)
 
@@ -35,7 +35,7 @@ For the detection we are going to use Azure Sentinel and sysmon. Sysmon can be d
 To install it, run the following command as an administrator:
 
 ```
-sysmon.exe -accepteula -i <CONFIG_FILE_HERE>
+sysmon.exe -accepteula -i CONFIG_FILE_HERE
 ```
 
 You can use the following config file by ION-STORM:
