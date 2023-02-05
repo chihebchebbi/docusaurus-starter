@@ -83,13 +83,13 @@ NodeJS \&gt;= 4.6.1 is required in order to run the Wazuh API.
 
 `sudo curl -sL https://deb.nodesource.com/setup_8.x | sudo  bash -`
 
-![]()
+
 
 and then, install NodeJS:
 
 `sudo apt-get install nodejs`
 
-![]()
+
 
 Install the Wazuh API:
 
@@ -125,7 +125,7 @@ Download the Wazuh module for Filebeat:
 
 `sudo vi /etc/filebeat/filebeat.yml`
 
-![]()
+
 
 Enable and start the Filebeat service:
 
@@ -160,7 +160,7 @@ Once Elasticsearch is up and running, it is recommended to load the Filebeat tem
 
 `sudo filebeat setup --index-management -E setup.template.json.enabled=false`
 
-![]()
+
 
 ## Installing Kibana
 
@@ -223,11 +223,11 @@ Check if Logstash is reachable from Filebeat.
 
 sudo filebeat test output
 
-![]()
+
 
 Replace the default credentials with your desired username where myUsername is shown below to protect your Wazuh API
 
-![]()
+
 
 More information: [https://documentation.wazuh.com/3.3/installation-guide/installing-elastic-stack/connect\_wazuh\_app.html](https://documentation.wazuh.com/3.3/installation-guide/installing-elastic-stack/connect_wazuh_app.html)
 
@@ -235,7 +235,7 @@ Open a web browser and go to the Elastic Stack server&#39;s IP address on port 5
 
 Click on &quot;Add new API&quot; and fill the API fields. If everything goes fine, you will get this main Wazuh dashboard.
 
-![]()
+
 
 To add new agent just select the OS, curl the package and install it:
 
