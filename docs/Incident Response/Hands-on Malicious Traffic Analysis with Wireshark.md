@@ -40,7 +40,7 @@ A topology is a schematic representation of a network. You can see it as the lay
 
 ## **Traffic Analysis with Wireshark **
 
-<img src="https://lh3.googleusercontent.com/24OiDT6gcn37TKewMOJAb_JJjZYmng44HidSs60bQOA3LZPwX4ZfaelU9QRQkFIXCBFsECeQyCTvoME9VaVek98kKPFONTESHEznLcgAtlyIUYJDCJjXeCjqF0SP73pmU7DzGjU" width="200px">
+
 
 
 The most suitable tool that will help you analyze your network traffic is definitely Wireshark. Wireshark is a free and open-source tool to help you analyse network protocols with deep inspection capabilities. It gives you the ability to perform live packet capturing or offline analysis. It supports many operating systems including Windows, Linux, MacOS, FreeBSD and many more systems.
@@ -84,8 +84,6 @@ In other words data is moving in the network respecting a specific order. The fo
 1- Physical layer
 
 The following graph illustrates the different OSI model layers:
-
-<img src="https://lh4.googleusercontent.com/VL-XEpcWKBcUh7y4JqGFXI_r560HFpAzuAcm5cALemlmCHE7Jt8fXCBs_JZ0REVzZCdm4py6YQxd9_PD8jioMA87a81qwcuQB2yS4ifcCOVTkJ3X_zrRi03HZQ3RynvZ7QCwuc8" width="400px">
 
 
 [Image Courtesy](https://www.researchgate.net/profile/Jay_Johnson3/publication/322568288/figure/fig6/AS:631584889778238@1527592980914/OSI-model-seven-layer-protocol-stack-28.png)
