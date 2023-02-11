@@ -1,7 +1,7 @@
 
 
 Security information and event management systems (SIEM) are very important tools in incident response missions. Every security operation centre is equipped with a SIEM. In this article, we are going to learn how to deploy a fully working SIEM using the amazing suite the Elastic stack (ELK).
-
+ 
 ![](https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt0a8f8d63938463bc/5d01b52bae9baaf01450ac67/introducing-elastic-siem-2.png)
 
 Image source:[ dashboard](https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt0a8f8d63938463bc/5d01b52bae9baaf01450ac67/introducing-elastic-siem-2.png)
