@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 In this module, we are going to discover the required terminologies and fundamentals to acquire a fair understanding of “Incident Response” and the different steps and teams to perform incident response
 
 We are going to explore the following points: 
