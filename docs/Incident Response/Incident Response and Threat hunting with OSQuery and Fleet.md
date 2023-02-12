@@ -1,6 +1,7 @@
 In this guide, we are going to explore some powerful tools to help you enhance your incident response and threat hunting assessments. These tools are OSQuery and Kolide Fleet.
 
-![](https://www.freelancinggig.com/blog/wp-content/uploads/2019/05/What-is-Osquery.jpg)Image source: [OSQUERY logo](https://www.freelancinggig.com/blog/wp-content/uploads/2019/05/What-is-Osquery.jpg)
+![](https://www.freelancinggig.com/blog/wp-content/uploads/2019/05/What-is-Osquery.jpg)
+Image source: [OSQUERY logo](https://www.freelancinggig.com/blog/wp-content/uploads/2019/05/What-is-Osquery.jpg)
 
 Let&#39;s start exploring the first tool OSQuery
 
@@ -38,7 +39,7 @@ For the demonstration, we are going to use a Ubuntu 18.04 TLS server machine. To
 
 `sudo apt-get install osquery`
 
-[![](img/installosquery.png)](https://github.com/chihebchebbi/mkdocs-base/raw/master/docs/img/installosquery.png)
+![]()(https://github.com/chihebchebbi/mkdocs-base/raw/master/docs/img/installosquery.png)
 
 OSQuery delivers these modes:
 
@@ -51,32 +52,31 @@ To start using OSQuery simply type:
 
 To explore the available commands type  **.help**
 
-[![](img/help.png)](https://github.com/chihebchebbi/mkdocs-base/raw/master/docs/img/help.png)
+![](https://github.com/chihebchebbi/mkdocs-base/raw/master/docs/img/help.png)
 
 To explore the available tables type
 
 `.tables`
 
-[![](img/tables.png)](https://github.com/chihebchebbi/mkdocs-base/raw/master/docs/img/tables.png)
+![](https://github.com/chihebchebbi/mkdocs-base/raw/master/docs/img/tables.png)
 
 To explore the schema of a specific table type
 
 `.schema <TABLE_HERE>`
 
-[![](img/schema.png)](https://github.com/chihebchebbi/mkdocs-base/blob/master/d![image](https://user-images.githubusercontent.com/9631446/218324341-a09c13c7-b4b3-4559-a90c-e751e38ad366.png)
-ocs/img/schema.png)
+
 
 For example if you want to get the users type:
 
 `select * from users ;`
 
-[![](img/users.png)](https://github.com/chihebchebbi/mkdocs-base/raw/master/docs/img/users.png)
+![](https://github.com/chihebchebbi/mkdocs-base/raw/master/docs/img/users.png)
 
 To select loggedin users type:
 
 `select * from logged_in_users ;`
 
-[![](img/loggedin.png)](https://github.com/chihebchebbi/mkdocs-base/raw/master/docs/img/loggedin.png)
+![](https://github.com/chihebchebbi/mkdocs-base/raw/master/docs/img/loggedin.png)
 
 The official website contains the list of all the available tables and its schemes. For example this is the scheme of  **Kernel\_info table**
 
@@ -103,7 +103,7 @@ A collection of queries is called a ** Pack**. OSQuery provides many hekpful pac
 
 This is a query from [https://github.com/osquery/osquery/blob/master/packs/incident-response.conf](https://github.com/osquery/osquery/blob/master/packs/incident-response.conf)  that retreive all the startup items in MacOS hosts:
 
-[![](img/packexample.png)](https://github.com/chihebchebbi/mkdocs-base/raw/master/docs/img/packexample.png)
+![](https://github.com/chihebchebbi/mkdocs-base/raw/master/docs/img/packexample.png)
 
 But now, what to do if we want to deploy OSQuery in large scale environments and we want to manage them all easily. In this situation we need another powerful platform called &quot;Kolide Fleet&quot;
 
@@ -177,7 +177,8 @@ Check its status:
 
 `sudo systemctl status mariadb`
 
-![](img/mariastatus.png)
+![](https://user-images.githubusercontent.com/9631446/218324938-0b99071c-a26d-42e9-9483-3088c21555c4.png)
+
 
 Enable Mariadb service:
 
