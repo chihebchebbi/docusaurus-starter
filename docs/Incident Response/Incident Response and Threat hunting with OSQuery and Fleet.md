@@ -39,7 +39,7 @@ For the demonstration, we are going to use a Ubuntu 18.04 TLS server machine. To
 
 `sudo apt-get install osquery`
 
-![]()(https://github.com/chihebchebbi/mkdocs-base/raw/master/docs/img/installosquery.png)
+![](https://github.com/chihebchebbi/mkdocs-base/raw/master/docs/img/installosquery.png)
 
 OSQuery delivers these modes:
 
