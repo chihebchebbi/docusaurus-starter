@@ -194,7 +194,7 @@ To get the most of your scanning efforts you need to save the collected informat
 
 nmap -A -T4 -v 192.168.1.108 \>\> result1.txt
 
-![]([RackMultipart20230211-1-qup5ag_html_86ae1371b1bb8ba2.png](https://lh5.googleusercontent.com/rPpdTyPYuqPDTjkrCzjSA9pLDuQ_2YlZRDrmNGJ43_Ge207EQrNqMzTZ_QPaSZep87ezb0IL6wJc01awLEocIHNcuqZr3FY_VZM_vL9CYywjyZARn0NGIR3GB2SoiGZa9LV2VSH8k-uo2JzWRFrPeQ))
+![](https://lh5.googleusercontent.com/rPpdTyPYuqPDTjkrCzjSA9pLDuQ_2YlZRDrmNGJ43_Ge207EQrNqMzTZ_QPaSZep87ezb0IL6wJc01awLEocIHNcuqZr3FY_VZM_vL9CYywjyZARn0NGIR3GB2SoiGZa9LV2VSH8k-uo2JzWRFrPeQ)
 
 Or you can use "-oN"
 
