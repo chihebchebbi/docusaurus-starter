@@ -10,11 +10,9 @@
 But first what is Ghidra exactly?
 
 
-
-
 According to its official [Github repository](https://github.com/NationalSecurityAgency/ghidra):
 
-&quot;Ghidra is a software reverse engineering (SRE) framework created and maintained by the [National Security Agency](https://www.nsa.gov/)Research Directorate. This framework includes a suite of full-featured, high-end software analysis tools that enable users to analyze compiled code on a variety of platforms including Windows, macOS, and Linux. Capabilities include disassembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra supports a wide variety of processor instruction sets and executable formats and can be run in both user-interactive and automated modes. Users may also develop their own Ghidra plug-in components and/or scripts using Java or Python.
+&quot;Ghidra is a software reverse engineering (SRE) framework created and maintained by the [National Security Agency](https://www.nsa.gov/) Research Directorate. This framework includes a suite of full-featured, high-end software analysis tools that enable users to analyze compiled code on a variety of platforms including Windows, macOS, and Linux. Capabilities include disassembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra supports a wide variety of processor instruction sets and executable formats and can be run in both user-interactive and automated modes. Users may also develop their own Ghidra plug-in components and/or scripts using Java or Python.
 
 In support of NSA&#39;s Cyber Security mission, Ghidra was built to solve scaling and teaming problems on complex SRE efforts, and to provide a customizable and extensible SRE research platform. NSA has applied Ghidra SRE capabilities to a variety of problems that involve analyzing malicious code and generating deep insights for SRE analysts who seek a better understanding of potential vulnerabilities in networks and systems.
 
@@ -26,7 +24,7 @@ The official website of the project is [https://ghidra-sre.org](https://ghidra-s
 
 As you can notice from the official description that this tool was developed and maintained by the US NSA (National Security Agency) which leads us to think about if this tool is secure. Check this post if you didn&#39;t know what i am talking about:
 
-### Compilation example with a C Program:
+## Compilation example with a C Program:
 
 Before diving into the fundamentals of reverse engineering with this powerful tool (Ghidra) , let&#39;s explore the compiling phases in order to get an executable and some important terminologies.
 
@@ -68,7 +66,7 @@ Run the executable
 
 ![](https://lh6.googleusercontent.com/E50ujmhp_jn_YPliSGQQ7cNwuynIgEOp1MkEoX7L4BD5vwSWGUN5ns8z8gvW7WD33pl_xt9lpG-TB_GaA3x0mU50sBIcJ7AuDwZ1iv71rAy5Xm3S3k_kHpFBOC4U0kfLdx1qUtc)
 
-**How to install Ghidra? **
+## How to install Ghidra?  
 
 To use Ghidra we need to install it of course. As technical requirements, you need the following
 
@@ -94,7 +92,7 @@ Go to the installation folder and run the Ghidra bat file
 
 For more information about the installation steps you can check Ghidra official documentation: [https://ghidra-sre.org/InstallationGuide.html](https://ghidra-sre.org/InstallationGuide.html)
 
-**Reverse engineering example (CrackMe Challenge): **
+## Reverse engineering example (CrackMe Challenge): 
 
 We learned the compilation phases in order to generate a fully working binary. Now it is time to continue our learning experience with acquiring some fundamentals about reverse engineering. That is why we are going to download a small and easy CrackMe challenge and we will try to understand what is doing and how it works in order to find the correct password to solve the challenges.
 
@@ -188,11 +186,11 @@ Congratulations, you solved your first  **crackme**  challenge.
 
 This article will be updated with more interesting sections in the next few hours like Malware Analysis with Ghidra
 
-**Further resources **
+## Further resources  
 
 - [https://ghidra-sre.org/CheatSheet.html](https://ghidra-sre.org/CheatSheet.html)
 
-**References **
+## References 
 
 - [https://www.tutorialspoint.com/assembly\_programming/assembly\_conditions.htm](https://www.tutorialspoint.com/assembly_programming/assembly_conditions.htm)
 
