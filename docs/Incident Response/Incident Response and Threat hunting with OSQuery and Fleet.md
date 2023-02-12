@@ -10,7 +10,7 @@ According to its official Github [repository](https://github.com/osquery/osquery
 
 ![](https://engineering.fb.com/wp-content/uploads/2014/10/1_XC-k2QigREIwZnBpFZ4StA@2x.png)
 
-> _Osquery is a __ __ SQL __ __ powered __ __ operating system __ __ instrumentation, __ __ monitoring __, and__   __analytics__   __framework. It is Available for__   __Linux__ , __ __ macOS __,__   __Windows,__and FreeBSD._
+_Osquery is a __ __ SQL __ __ powered __ __ operating system __ __ instrumentation, __ __ monitoring __, and__   __analytics__   __framework. It is Available for__   __Linux__ , __ __ macOS __,__   __Windows,__and FreeBSD._
 
 Its official website is [https://osquery.io](https://osquery.io/)
 
@@ -115,7 +115,7 @@ But now, what to do if we want to deploy OSQuery in large scale environments and
 
 ![](https://user-images.githubusercontent.com/618009/98254443-eaf21100-1f41-11eb-9e2c-63a0545601f3.jpg)
 
-> Fleet is the most widely used open source osquery manager. Deploying osquery with Fleet enables programmable live queries, streaming logs, and effective management of osquery across 50,000+ servers, containers, and laptops. It's especially useful for talking to multiple devices at the same time.
+Fleet is the most widely used open source osquery manager. Deploying osquery with Fleet enables programmable live queries, streaming logs, and effective management of osquery across 50,000+ servers, containers, and laptops. It's especially useful for talking to multiple devices at the same time.
 
 ![](https://user-images.githubusercontent.com/618009/101847266-769a2700-3b18-11eb-9109-7f1320ed5c45.png)
 
@@ -125,7 +125,7 @@ But now, what to do if we want to deploy OSQuery in large scale environments and
 
 According to its official [Github repository](https://github.com/kolide/fleet):
 
-> _Fleet is the most widely used __ __ open-source __ __ osquery Fleet manager. Deploying osquery with Fleet enables live queries, and effective __ __ management __ __ of osquery infrastructure._
+_Fleet is the most widely used __ __ open-source __ __ osquery Fleet manager. Deploying osquery with Fleet enables live queries, and effective __ __ management __ __ of osquery infrastructure._
 
 ![](https://miro.medium.com/max/1400/1*t17v4ZaUn-4Nz7tmAJWElQ@2x.png)Image source: [Kolide fleet ](https://miro.medium.com/max/1400/1*t17v4ZaUn-4Nz7tmAJWElQ@2x.png)
 
