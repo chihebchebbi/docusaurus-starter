@@ -1,6 +1,4 @@
-# Microsoft Sentinel: Process Hollowing (T1055.012) Analysis 
-
-![](https://gblobscdn.gitbook.com/assets%2F-MO5yzvM95WKuwxNJv3b%2F-MTQnOs_xEAye829JeSx%2F-MTQxmYtLUotvQ1w5IT1%2Fcover.png?alt=media&token=d269697f-0bcb-4e20-a433-3111862ab673)
+# Microsoft Sentinel: Process Hollowing T1055.012 Analysis 
 
 In this article, we are going to explore a technique called Process Hollowing.
 
