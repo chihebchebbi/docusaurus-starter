@@ -20,7 +20,7 @@ Now you are ready to create your first Copilot.
 
 ![](https://lh7-us.googleusercontent.com/Zpuw_O_pUkvfH8Ufy5Cgd8DdlJA5IMoVdw_zswiyp7cZ_c7UCrJH0a3Vm3PORUshQkltD2J6fPdq3x4C4DFn0o19sgDo2IbmIJPzcX944CwHcEuExYz1ZqmUugrdVDkQYmq0fjTm8UFLQg9nOgDaCAQ)
 
-Click on ***+ Create a copilot**. *****We are going to build a copilot that uses the MITRE ATT&CK website information to answer all your questions about the framework. Enter the following pieces of information and click on “Create”
+Click on "**+ Create a copilot**".Enter the following pieces of information and click on “Create”
 
 ![](https://lh7-us.googleusercontent.com/lQ_n-yPbqpwWdDR9HYhToDuN5e72NUpRDM82P81yJUnxs785zYuMko4s-0QXHFi8kXCeJdbBBaGSDWEOk4Va4ErZvr4FkyXBfE40AF7NXTeW0Se6haC2Bha5kn74oyWko70DNbEjU2iRjs0xbTwiwC8)
 
