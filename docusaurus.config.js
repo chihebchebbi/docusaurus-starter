@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'BLUE TEAMS ACADEMY',
-  tagline: 'FREE TRAINING & PROJECTS 2023',
+  tagline: 'FREE TRAINING & PROJECTS 2025',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
