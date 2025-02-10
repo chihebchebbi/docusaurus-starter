@@ -1,6 +1,6 @@
 # Microsoft Sentinel SOC Optimization Report Generator
 
-The Microsoft Sentinel SOC Optimization Report Generator is a tool designed to automate the creation of SOC optimization reports. It leverages Microsoft Sentinel's recommendations to leverage SOC optimization recommendations, to help organizations close coverage gaps against specific threats and fine-tune data ingestion to prioritize security-relevant information. 
+The Microsoft Sentinel SOC Optimization Report Generator is a tool designed to automate the creation of SOC optimization reports. It leverages Microsoft Sentinel’s recommendations to help organizations close coverage gaps against specific threats and fine-tune data ingestion, ensuring a focus on security-relevant information for improved threat detection and SOC efficiency.
 
 ![](https://i.imgur.com/bER872r.png)
 
