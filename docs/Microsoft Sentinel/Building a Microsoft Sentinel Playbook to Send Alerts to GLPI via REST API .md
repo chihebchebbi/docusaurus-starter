@@ -1,4 +1,4 @@
-# Building a Microsoft Sentinel Playbook to Send Alerts to GLPI via REST API 
+# How to Build a Microsoft Sentinel Playbook to Send Alerts to GLPI via REST API 
 
 ## Introduction
 
